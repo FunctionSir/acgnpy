@@ -24,3 +24,5 @@ print('洛天依的资料来源：{}'.format(LuoTianyi.source))
 print('洛天依的声优是：{}'.format(LuoTianyi.cv))
 print('初音未来的生日是：{}'.format(Miku.birthday))
 #此处注意：birthday为以空格分割的二数字组成的字符串。格式MM DD。#
+#年龄不知道的话，为-1#
+print('言和的年龄？{}',.format(YanHe.age))

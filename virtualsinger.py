@@ -24,7 +24,7 @@ class Miku:
     group = 'Crypton Future Media'
     img = 'https://img.moegirl.org/common/9/9b/Hatsune_miku_v4x.png'
     source = 'https://zh.moegirl.org/初音未来'
-class YueZhengling:
+class YuezhengLing:
     name_ch = '乐正绫'
     name_ja = '$UNKNOW$'
     name_en = 'Yuezheng Ling'
@@ -37,18 +37,16 @@ class YueZhengling:
     group = 'Vsinger'
     img = 'https://img.moegirl.org/common/8/84/YUEZHENGLING.jpg'
     source = 'https://zh.moegirl.org/乐正绫'
-'''
-class :
-    name_ch = 
-    name_ja = 
-    name_en = 
-    birth_m =
-    birth_d =
-    birthday = ''
-    age = 
-    color = ''
-    cv = ''
-    group = ''
-    img = ''
-    source = ''
-'''
+class YanHe:
+    name_ch = '言和'
+    name_ja = 'イェンホー'
+    name_en = 'Yan He'
+    birth_m = 7
+    birth_d = 11
+    birthday = '07 11'
+    age = -1
+    color = '#00FFCC'
+    cv = '刘婧荦'
+    group = 'Vsinger
+    img = 'https://img.moegirl.org/common/8/84/YUEZHENGLING.jpg'
+    source = 'https://zh.moegirl.org/言和 https://baike.baidu.com/item/言和'
