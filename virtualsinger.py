@@ -1,3 +1,21 @@
+'''
+格式
+class 名字（XxxXxx）:
+    name_ch = string
+    name_ja = string
+    name_en = string
+    birth_m = int
+    birth_d = int
+    birthday = 'MM DD'
+    age = int
+    color = string
+    cv = string
+    group = string
+    img = string
+    source = string
+    2量之间以空格隔开
+    age未设定？=-1
+'''
 class LuoTianyi:
     name_ch = '洛天依'
     name_ja = 'ルオ・テンイ'
