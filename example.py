@@ -13,7 +13,7 @@ from virtualsinger import *
 print('初音未来的年龄是：{}岁'.format(Miku.age))
 print('初音未来的声优是：{}'.format(Miku.cv))
 #不知道的话，输出是这样的#
-print('月正绫的日文名字是：{}'.format(YueZhengling.name_ja))
+print('乐正绫的日文名字是：{}'.format(YueZhengling.name_ja))
 #输出为'$UNKNOW$'#
 #想获取一份图片？#
 print('图片链接：{}'.format(LuoTianyi.img))
